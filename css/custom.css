@@ -1,0 +1,7 @@
+body:after {
+    content: url(./../img/logo.png);
+    position: fixed;
+    bottom: -65px;
+    left: -190px;
+    transform: scale(.3);
+}
